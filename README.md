@@ -24,8 +24,8 @@ All setup and result screenshots are available in the `screenshots/` folder:
 - VPN Disconnection
 
  Report
-Detailed step-by-step procedure and observations are documented in the `report.md` file.
+-Detailed step-by-step procedure and observations are documented in the `report.md` file.
 
  Outcome
-Learned the fundamentals of VPNs, how to use them securely, and evaluated both their strengths and weaknesses in real-world use.
+-Learned the fundamentals of VPNs, how to use them securely, and evaluated both their strengths and weaknesses in real-world use.
 # Author: Suhani Pandey
