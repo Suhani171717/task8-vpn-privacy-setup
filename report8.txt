@@ -1,0 +1,73 @@
+ Task 8: Working and Understanding VPN
+
+ Objective
+Understand the role of VPNs in protecting privacy and enabling secure communication.
+
+ Tools Used
+- ProtonVPN (Free Tier)
+- Web Browser (Google Chrome)
+- whatismyipaddress.com
+
+
+
+ Step-by-Step Execution
+
+  1. **VPN Account Setup**
+- Visited [https://protonvpn.com](https://protonvpn.com)
+- Created a free account using email ID.
+- Confirmed account via email and logged in.
+
+  ![Signup](./screenshots/vpn_signup.png)
+
+
+
+ 2. **Download and Installation**
+- Downloaded the ProtonVPN client for Windows.
+- Installed the VPN and completed setup.
+
+  ![Installation](./screenshots/vpn_installation.png)
+
+
+
+ 3. **Connected to a VPN Server**
+- Logged in to ProtonVPN client.
+- Selected a **free Netherlands server** and connected.
+- Verified the VPN status.
+
+  ![Connected](./screenshots/vpn_connected.png)
+
+
+ 4. **Verified IP Address Change**
+- Before connecting: Local IP and location displayed.
+- After connecting: IP changed to a Netherlands-based IP.
+- Used [https://whatismyipaddress.com](https://whatismyipaddress.com) for verification.
+
+  ![IP Changed](./screenshots/ip_changed.png)
+
+
+
+ 5. **Secure Browsing**
+- Accessed websites like `example.com` and Google while VPN was ON.
+- Pages loaded securely, confirming encrypted tunnel was active.
+
+  ![Secure Browsing](./screenshots/secure_browsing.png)
+
+
+
+ 6. **Disconnected VPN & Compared**
+- Disconnected ProtonVPN.
+- Observed original IP and location restored.
+- Compared browsing speed before and after VPN usage.
+
+  ![Disconnected](./screenshots/vpn_disconnected.png)
+
+
+
+ 7. **VPN Research Summary**
+- **What is a VPN?** A VPN encrypts your internet connection and hides your IP.
+- **Protocols Used:** OpenVPN, IKEv2/IPSec, WireGuard.
+- **Advantages:** Security, privacy, bypass censorship, avoid tracking.
+- **Limitations:** Slight drop in speed, doesn't prevent malware, no absolute anonymity.
+
+
+Conclusion:This task helped me gain practical experience in VPN usage. I understood how VPNs enhance privacy by hiding IP addresses and encrypting traffic, while also exploring their real-world limitations.
